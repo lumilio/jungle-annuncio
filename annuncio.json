@@ -1,0 +1,8 @@
+{
+  "tipo": "deprecazione",
+  "dati": {
+    "minVersione": 2,
+    "dal": 1788078875
+  },
+  "firma": "0x8e008eb47e73aa2f9d10ff0e3c151ee11fed1e9e9b3b775cf3dd3b7b74931da87772608e520cbc3fc0c03d8a041ecb43aafd23b81475ce78b4833e966591451e1b"
+}
